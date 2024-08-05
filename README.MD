@@ -10,6 +10,7 @@
 1. Write program to count numbers from 0 to 1 million
    1. Without lock : count is not equal to 1 million
    2. With mutex : count is equal to 1 million
+2. Optimistic lock poc using compare and swap 
 
 ## Problem Statement - 3
 
